@@ -38,6 +38,12 @@
     format('woff2');
 }
 
+@font-face {
+  font-family: 'GT-Pressura-Mono-Bold';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/GT-Pressura-Mono-Bold.otf')
+    format('otf');
+}
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
