@@ -41,7 +41,7 @@
 @font-face {
   font-family: 'GT-Pressura-Mono-Bold';
   src: url('https://ccc-frontend.github.io/fonts/fonts/GT-Pressura-Mono-Bold.otf')
-    format('otf');
+    format('opentype');
 }
 
 .main {
