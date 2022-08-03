@@ -49,6 +49,11 @@
   src: url('https://ccc-frontend.github.io/fonts/fonts/Kelsi-Regular.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'Phonk';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Phonk-Regular.woff2') format('woff2');
+}
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
