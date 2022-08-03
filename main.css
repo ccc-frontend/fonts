@@ -59,6 +59,16 @@
   src: url('https://ccc-frontend.github.io/fonts/fonts/Futura.ttc') format('truetype');
 }
 
+@font-face {
+  font-family: 'Celias';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Minecraft';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Minecraft.ttf') format('truetype');
+}
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
