@@ -74,6 +74,12 @@
   src: url('https://ccc-frontend.github.io/fonts/fonts/MinionPro-Regular.otf') format('opentype');
 }
 
+@font-face {
+  font-family: 'FreightBigCmpProLight-Regular';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/FreightBigCmpProLight-Regular.otf') format('opentype');
+}
+
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
