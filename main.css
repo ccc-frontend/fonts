@@ -76,9 +76,14 @@
 
 @font-face {
   font-family: 'FreightBigCmpProLight-Regular';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/FreightBigCmpProLight-Regular.otf') format('opentype');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/FreightBigCmpProLight-Regular.otf')
+    format('opentype');
 }
 
+@font-face {
+  font-family: 'AlbertusNova';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/AlbertusNova.woff2') format('woff2');
+}
 
 .main {
   color: #000;
