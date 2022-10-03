@@ -60,8 +60,13 @@
 }
 
 @font-face {
-  font-family: 'Celias';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias.ttf') format('truetype');
+  font-family: 'Celias-Regular';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Celias-Medium';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Medium.ttf') format('truetype');
 }
 
 @font-face {
