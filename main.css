@@ -61,12 +61,12 @@
 
 @font-face {
   font-family: 'Celias-Regular';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Regular.ttf') format('truetype');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Regular.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'Celias-Medium';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Medium.ttf') format('truetype');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Celias-Medium.woff2') format('woff2');
 }
 
 @font-face {
