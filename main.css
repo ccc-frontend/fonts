@@ -37,9 +37,16 @@
   src: url('https://ccc-frontend.github.io/fonts/fonts/275e1e1e-08b1-4fe8-952b-5484d602fa4e.woff2')
     format('woff2');
 }
+
 @font-face {
   font-family: 'Helvetica Neue Bold';
   src: url('https://ccc-frontend.github.io/fonts/fonts/HelveticaNeueBold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue Condensed Bold ';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/HelveticaNeue-CondensedBold.woff2')
+    format('woff2');
 }
 
 @font-face {
