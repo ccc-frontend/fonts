@@ -101,6 +101,11 @@
   src: url('https://ccc-frontend.github.io/fonts/fonts/AlbertusNova.woff2') format('woff2');
 }
 
+@font-face {
+  font-family: 'Nimbus-Bold';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Nimbus-Sans-Bold.woff2') format('woff2');
+}
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
