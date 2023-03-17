@@ -33,6 +33,12 @@
 }
 
 @font-face {
+  font-family: 'Univers-LT-67-Bold-Condensed';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Univers-LT-67-Bold-Condensed.woff2')
+    format('woff2');
+}
+
+@font-face {
   font-family: 'Helvetica Neue Black Extended';
   src: url('https://ccc-frontend.github.io/fonts/fonts/275e1e1e-08b1-4fe8-952b-5484d602fa4e.woff2')
     format('woff2');
@@ -113,9 +119,9 @@
 
 @font-face {
   font-family: 'NimbusSansT-BlackCondensed';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/NimbusSansT-BlackCondensed.otf') format('otf');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/NimbusSansT-BlackCondensed.otf')
+    format('otf');
 }
-
 
 .main {
   color: #000;
