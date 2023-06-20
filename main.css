@@ -114,13 +114,13 @@
 
 @font-face {
   font-family: 'Nimbus-Regular';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/Nimbus Regular.ttf') format('ttf');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/Nimbus-Regular.woff2') format('woff2');
 }
 
 @font-face {
   font-family: 'NimbusSansT-BlackCondensed';
-  src: url('https://ccc-frontend.github.io/fonts/fonts/NimbusSansT-BlackCondensed.otf')
-    format('otf');
+  src: url('https://ccc-frontend.github.io/fonts/fonts/NimbusSansT-BlackCondensed.woff2')
+    format('woff2');
 }
 
 @font-face {
