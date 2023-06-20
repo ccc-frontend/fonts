@@ -123,6 +123,11 @@
     format('otf');
 }
 
+@font-face {
+  font-family: 'BigCaslonFB-Italic';
+  src: url('https://ccc-frontend.github.io/fonts/fonts/BigCaslonFB-Italic.woff2') format('woff2');
+}
+
 .main {
   color: #000;
   font-family: 'Univers LT W05_55 Roman', serif;
